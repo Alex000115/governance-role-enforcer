@@ -1,0 +1,11 @@
+{
+  "name": "governance-role-enforcer",
+  "version": "1.0.0",
+  "description": "Continuous on-chain to Discord role sync",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ethers": "^6.10.0",
+    "node-cron": "^3.0.3",
+    "sqlite3": "^5.1.7"
+  }
+}
